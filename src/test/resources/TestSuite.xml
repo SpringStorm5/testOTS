@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="Demo Test Plan" verbose="3">
+<suite name="Demo Test Plan" verbose="1">
 	<test name="test1">
 		<groups>
 			<run>
